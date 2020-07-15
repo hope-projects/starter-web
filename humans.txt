@@ -1,5 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+# The more humans the better
 
 # TEAM
 
