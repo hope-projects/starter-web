@@ -4,7 +4,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Luis        luis.esperanca      luis.twitter
 
 # THANKS
 
