@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## How to Contribute
 
 ## Deploy
+
+### Copyright
+
+Luis Cenas depois mais cenas
